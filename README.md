@@ -94,14 +94,3 @@
  <img align="center" src="https://img.shields.io/badge/-MonteiroCM-003399?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p><br>
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MonteiroCM&show_icons=true&theme=vision-friendly-dark" alt="MonteiroCM's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroCM&layout=compact&theme=vision-friendly-dark" alt="MonteiroCM's most languages"/>
-</p>
-
-<a href="http://www.github.com/MonteiroCM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MonteiroCM&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br>
